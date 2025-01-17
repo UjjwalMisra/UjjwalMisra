@@ -1,7 +1,7 @@
 # 👋 <Your Name> - <Your Title/Profession>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-username) 
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) 
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/UjjwalMisra) 
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ujjwalmishra1777@gmail.com)
 
 Welcome to my GitHub profile! I specialize in <your expertise> and love working on <your passion>. Here's a snapshot of what I do and the tools I’m skilled in.
 
