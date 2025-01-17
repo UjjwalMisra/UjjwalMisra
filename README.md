@@ -13,13 +13,28 @@ Welcome to my GitHub profile! I specialize in <your expertise> and love working 
 ---
 
 ## 🛠️ Cool Stuff I’ve Worked On
-### 🔐 Project 1
-- **Tech:** <Programming Language/Tools>
-- **Summary:** <Brief description of the project.>
 
-### 🌟 Project 2
-- **Tech:** <Programming Language/Tools>
-- **Summary:** <Brief description of the project.>
+
+### 📊 Sales Insights Dashboard [Power BI — SQL]
+- **Description:** Designed a Power BI dashboard to analyze sales trends for AtliQ hardware.
+- **Key Achievements:** Streamlined data-driven decision-making by visualizing sales performance across regions and products.
+- **Repository:** [Sales Insights Dashboard](https://github.com/ujjwalmishra1777/sales-insights-dashboard)
+
+---
+
+### 📊 HR Data Analytics [Power BI — Excel]
+- **Description:** Engineered a dashboard to track HR metrics, including working hours, attendance, performance, and leaves, enhancing process efficiency.
+- **Key Achievements:** Optimized HR workload through automation of manual reporting tasks.
+- **Repository:** [HR Data Analytics](https://github.com/ujjwalmishra1777/hr-data-analytics)
+
+---
+
+### 🔍 Credit Card Fraud Detection [Python — Machine Learning]
+- **Description:** Developed a Random Forest-based fraud detection system to classify legitimate and fraudulent transactions.
+- **Key Achievements:**
+  - Achieved a ROC-AUC score of 0.964, demonstrating strong model performance.
+  - Addressed data imbalance using SMOTE and cost-sensitive learning.
+- **Repository:** [Credit Card Fraud Detection](https://github.com/ujjwalmishra1777/credit-card-fraud-detection)
 
 ---
 
