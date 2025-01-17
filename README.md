@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I specialize in <your expertise> and love working 
 ---
 
 ## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UjjwalMisra&show_icons=true&theme=radical)
 
 ---
 
