@@ -23,12 +23,31 @@ Welcome to my GitHub profile! I specialize in <your expertise> and love working 
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages:** Python, JavaScript, etc.
-- **Tools:** Git, Docker, etc.
+- ## 🛠️ Skills & Tools
+
+### **Programming Languages**
+- Python, SQL, C, Java
+
+### **Data Analytics Tools**
+- Power BI, Excel, Tableau
+
+### **Web Development**
+- HTML, CSS, JavaScript, React
+
+### **Libraries**
+- Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+
+### **Machine Learning**
+- Regression, Classification, Clustering, Dimensionality Reduction
+
+### **Development Tools**
+- Jupyter Notebook, Google Colab, VS Code
+
+### **Soft Skills**
+- Problem-Solving, Analytical Thinking, Communication
 
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+- **Email:** [your-email@example.com](mailto:ujjwalmishra1777@gmail.com)
