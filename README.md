@@ -64,5 +64,5 @@ Welcome to my GitHub profile! I specialize in <your expertise> and love working 
 ---
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
-- **Email:** [your-email@example.com](mailto:ujjwalmishra1777@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
+- **Email:** [Gmail](mailto:ujjwalmishra1777@gmail.com)
