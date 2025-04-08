@@ -1,74 +1,215 @@
-# 👋 Ujjwal Mishra - Data Science, Data Analyst 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) 
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/UjjwalMisra) 
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ujjwalmishra1777@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=flat&logo=behance&logoColor=white)](https://ujjwal-mishra.netlify.app/)
 
-Welcome to my GitHub profile! I specialize in <your expertise> and love working on <your passion>. Here's a snapshot of what I do and the tools I’m skilled in.
-
----
-
-## 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UjjwalMisra&show_icons=true&theme=radical)
-
----
-
-## 🛠️ Cool Stuff I’ve Worked On
-
-
-### 📊 Sales Insights Dashboard [Power BI — SQL]
-- **Description:** Designed a Power BI dashboard to analyze sales trends for AtliQ hardware.
-- **Key Achievements:** Streamlined data-driven decision-making by visualizing sales performance across regions and products.
-- **Repository:** [Sales Insights Dashboard](https://github.com/ujjwalmishra1777/sales-insights-dashboard)
+markdown
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN6cGY0cnA1dHdpNmQ1cXY1M2pvYzZoNXRqMHg5NGxvMWl1dTJwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="200"/>
+  <h1>Hi there 👋, I'm Ujjwal Mishra</h1>
+  <h3>Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
+  <p>Currently pursuing B.Tech in Computer Science at KIIT (2022-2026)</p>
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b/)
+  [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjjwalMisra)
+  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalmishra1777@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)](https://ujjwal-mishra.netlify.app/)
+</div>
 
 ---
 
-### 📊 HR Data Analytics [Power BI — Excel]
-- **Description:** Engineered a dashboard to track HR metrics, including working hours, attendance, performance, and leaves, enhancing process efficiency.
-- **Key Achievements:** Optimized HR workload through automation of manual reporting tasks.
-- **Repository:** [HR Data Analytics](https://github.com/ujjwalmishra1777/hr-data-analytics)
+## 🧠 About Me
+
+```python
+class UjjwalMishra:
+    def __init__(self):
+        self.name = "Ujjwal Mishra"
+        self.role = "Data Scientist & ML Engineer"
+        self.education = "B.Tech in Computer Science @ KIIT"
+        self.location = "Kanpur, Uttar Pradesh, India"
+        self.interests = ["AI/ML", "Data Science", "Computer Vision", "NLP"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's build something amazing together!")
+
+me = UjjwalMishra()
+me.say_hi()
+```
+
+I'm passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. With a strong foundation in machine learning, data analysis, and software development, I create efficient solutions that make a meaningful impact.
 
 ---
 
-### 🔍 Credit Card Fraud Detection [Python — Machine Learning]
-- **Description:** Developed a Random Forest-based fraud detection system to classify legitimate and fraudulent transactions.
-- **Key Achievements:**
-  - Achieved a ROC-AUC score of 0.964, demonstrating strong model performance.
-  - Addressed data imbalance using SMOTE and cost-sensitive learning.
-- **Repository:** [Credit Card Fraud Detection](https://github.com/ujjwalmishra1777/credit-card-fraud-detection)
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UjjwalMisra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UjjwalMisra&theme=radical" alt="GitHub Streak" />
+</div>
 
 ---
 
-- ## 🛠️ Skills & Tools
+## 💼 Featured Projects
 
-### **Programming Languages**
-- Python, SQL, C, Java
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Automated Data Cleaning System</h3>
+      <div align="center">
+        <a href="https://github.com/UjjwalMisra/automated-data-cleaning" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 1" width="100"/>
+        </a>
+        <p>
+          <a href="https://github.com/UjjwalMisra/automated-data-cleaning" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://github.com/UjjwalMisra/automated-data-cleaning" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, Pandas, Scikit-learn, Streamlit</strong> - A data cleaning pipeline that handles missing values, outliers, and categorical encoding. Built with Streamlit UI allowing users to upload datasets and download cleaned versions, reducing preprocessing time by 70%.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">ATS Resume Ranking System</h3>
+      <div align="center">
+        <a href="https://github.com/UjjwalMisra/ats-resume-ranking" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 2" width="100"/>
+        </a>
+        <p>
+          <a href="https://github.com/UjjwalMisra/ats-resume-ranking" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://github.com/UjjwalMisra/ats-resume-ranking" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=streamlit&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, NLP, Machine Learning</strong> - An AI-powered tool that optimizes screening and ranking of 1000+ resumes against job descriptions. Uses NLP techniques to extract relevant keywords and provides a shortlist of the most qualified candidates.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Model-Crafter: Train & Evaluate ML Models</h3>
+      <div align="center">
+        <a href="https://github.com/UjjwalMisra/model-crafter" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 3" width="100"/>
+        </a>
+        <p>
+          <a href="https://github.com/UjjwalMisra/model-crafter" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://github.com/UjjwalMisra/model-crafter" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=colab&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Python, Scikit-Learn, Google Colab</strong> - A Python-based ML framework supporting 8+ algorithms for classification and regression with built-in preprocessing, hyperparameter tuning, and visualization of model performance metrics.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Coffee Shop Web Application</h3>
+      <div align="center">
+        <a href="https://github.com/UjjwalMisra/coffee-shop-app" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Project 4" width="100"/>
+        </a>
+        <p>
+          <a href="https://github.com/UjjwalMisra/coffee-shop-app" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://github.com/UjjwalMisra/coffee-shop-app" target="_blank">
+            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=netlify&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Responsive web application for a coffee shop developed during internship at Bolt IoT. Increased user engagement by 30% and reduced bounce rates by 15% through an intuitive UI and smooth user experience.</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### **Data Analytics Tools**
-- Power BI, Excel, Tableau
-
-### **Web Development**
-- HTML, CSS, JavaScript, React
-
-### **Libraries**
-- Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
-
-### **Machine Learning**
-- Regression, Classification, Clustering, Dimensionality Reduction
-
-### **Development Tools**
-- Jupyter Notebook, Google Colab, VS Code
-
-### **Soft Skills**
-- Problem-Solving, Analytical Thinking, Communication
-- 
 ---
 
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🛠️ Technical Skills
 
-###
+### Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+### Data Science & ML
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+</p>
+
+### Data Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### Machine Learning Areas
+<p align="left">
+  <img src="https://img.shields.io/badge/Supervised_Learning-4285F4?style=for-the-badge" alt="Supervised Learning"/>
+  <img src="https://img.shields.io/badge/Unsupervised_Learning-4285F4?style=for-the-badge" alt="Unsupervised Learning"/>
+  <img src="https://img.shields.io/badge/Classification-4285F4?style=for-the-badge" alt="Classification"/>
+  <img src="https://img.shields.io/badge/Regression-4285F4?style=for-the-badge" alt="Regression"/>
+  <img src="https://img.shields.io/badge/Clustering-4285F4?style=for-the-badge" alt="Clustering"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-4285F4?style=for-the-badge" alt="Feature Engineering"/>
+  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge" alt="NLP"/>
+</p>
+
+### Soft Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Problem_Solving-FF6F00?style=for-the-badge" alt="Problem Solving"/>
+  <img src="https://img.shields.io/badge/Logical_Reasoning-FF6F00?style=for-the-badge" alt="Logical Reasoning"/>
+  <img src="https://img.shields.io/badge/Communication-FF6F00?style=for-the-badge" alt="Communication"/>
+  <img src="https://img.shields.io/badge/Team_Collaboration-FF6F00?style=for-the-badge" alt="Team Collaboration"/>
+  <img src="https://img.shields.io/badge/Time_Management-FF6F00?style=for-the-badge" alt="Time Management"/>
+</p>
+
 ---
 
-## 📫 How to Reach Me
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
-- **Email:** [Gmail](mailto:ujjwalmishra1777@gmail.com)
+## 📈 My Contributions
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UjjwalMisra&theme=react-dark" alt="Contribution Graph" width="100%"/>
+</div>
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Technology in Computer Science**  
+  *KIIT - Kalinga Institute of Industrial Technology* | 2022 - 2026  
+  Relevant Coursework: Data Science, Software Engineering, Database Management, Artificial Intelligence, Machine Learning
+
+---
+
+## 📫 Get in Touch
+
+- 📧 Email: [ujjwalmishra1777@gmail.com](mailto:ujjwalmishra1777@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/ujjwal-mishra-2a1b6522b](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b/)
+- 🌐 Portfolio: [ujjwal-mishra.netlify.app](https://ujjwal-mishra.netlify.app/)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=UjjwalMisra&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <p>"The goal is to turn data into information, and information into insight." – Carly Fiorina</p>
+</div>
+
