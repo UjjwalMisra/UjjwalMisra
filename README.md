@@ -203,7 +203,7 @@ I'm passionate about transforming data into actionable insights and building int
 
 - 📧 Email: [ujjwalmishra1777@gmail.com](mailto:ujjwalmishra1777@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/ujjwal-mishra-2a1b6522b](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b/)
-- 🌐 Portfolio: [ujjwal-mishra.netlify.app](https://ujjwal-mishra.netlify.app/)
+- 🌐 Portfolio: [ujjwal-website.netlify.app](https://ujjwal-website.netlify.app/)
 
 ---
 
