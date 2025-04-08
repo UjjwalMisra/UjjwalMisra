@@ -8,7 +8,7 @@
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-mishra-2a1b6522b/)
   [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjjwalMisra)
   [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwalmishra1777@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)]((https://ujjwal-website.netlify.app/))
+  [![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)](https://ujjwal-website.netlify.app/)
 </div>
 
 ---
