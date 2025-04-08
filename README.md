@@ -1,5 +1,4 @@
 
-markdown
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN6cGY0cnA1dHdpNmQ1cXY1M2pvYzZoNXRqMHg5NGxvMWl1dTJwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" height="200"/>
   <h1>Hi there 👋, I'm Ujjwal Mishra</h1>
