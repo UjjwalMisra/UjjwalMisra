@@ -49,23 +49,6 @@ I'm passionate about transforming data into actionable insights and building int
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Automated Data Cleaning System</h3>
-      <div align="center">
-        <a href="https://github.com/UjjwalMisra/automated-data-cleaning" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 1" width="100"/>
-        </a>
-        <p>
-          <a href="https://github.com/UjjwalMisra/automated-data-cleaning" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://github.com/UjjwalMisra/automated-data-cleaning" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=streamlit&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, Pandas, Scikit-learn, Streamlit</strong> - A data cleaning pipeline that handles missing values, outliers, and categorical encoding. Built with Streamlit UI allowing users to upload datasets and download cleaned versions, reducing preprocessing time by 70%.</p>
-      </div>
-    </td>
-    <td width="50%">
       <h3 align="center">ATS Resume Ranking System</h3>
       <div align="center">
         <a href="https://github.com/UjjwalMisra/ats-resume-ranking" target="_blank">
