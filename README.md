@@ -51,7 +51,7 @@ I'm passionate about transforming data into actionable insights and building int
     <td width="50%">
       <h3 align="center">ATS Resume Ranking System</h3>
       <div align="center">
-        <a href="https://github.com/UjjwalMisra/ats-resume-ranking" target="_blank">
+        <a href="https://github.com/UjjwalMisra/ATS_project" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 2" width="100"/>
         </a>
         <p>
