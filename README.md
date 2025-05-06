@@ -24,7 +24,6 @@
 
 ## 👨‍💻 About Me
 
-```python
 class UjjwalMishra:
     def __init__(self):
         self.name = "Ujjwal Mishra"
