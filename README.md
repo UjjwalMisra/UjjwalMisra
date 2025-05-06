@@ -8,6 +8,7 @@
 ![alt text](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X4wyWI30GUK1TpA0kpyPuok9QR91BPpz/view)
 
 ![alt text](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)
 </div>
