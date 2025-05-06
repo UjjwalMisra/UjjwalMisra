@@ -22,12 +22,12 @@ class UjjwalMishra:
         
     def say_hi(self):
         print("Thanks for visiting my GitHub! Let's build something amazing together!")
+        me = UjjwalMishra()
+        me.say_hi()
+        Use code with caution.
+        Python
+        I'm passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. With a strong foundation in machine learning, data analysis, and software development, I create efficient solutions that make a meaningful impact.
 
-me = UjjwalMishra()
-me.say_hi()
-Use code with caution.
-Python
-I'm passionate about transforming data into actionable insights and building intelligent systems that solve real-world problems. With a strong foundation in machine learning, data analysis, and software development, I create efficient solutions that make a meaningful impact.
 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=UjjwalMisra&show_icons=true&theme=radical" alt="GitHub Stats" />
