@@ -3,11 +3,13 @@
   <h1>Hi there 👋, I'm Ujjwal Mishra</h1>
   <h3>Data Scientist | Machine Learning Engineer | AI Enthusiast</h3>
   <p>Currently pursuing B.Tech in Computer Science at KIIT (2022-2026)</p>
+  
 ![alt text](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 
 ![alt text](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)
+
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1X4wyWI30GUK1TpA0kpyPuok9QR91BPpz/view)
 
 ![alt text](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)
