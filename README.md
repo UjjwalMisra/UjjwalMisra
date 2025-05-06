@@ -12,7 +12,8 @@
 ![alt text](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)
 </div>
 🧠 About Me
-class UjjwalMishra:
+
+    class UjjwalMishra:
     def __init__(self):
         self.name = "Ujjwal Mishra"
         self.role = "Data Scientist & ML Engineer"
