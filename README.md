@@ -10,9 +10,6 @@
 
 ![alt text](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)
 
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](![image](https://github.com/user-attachments/assets/84fabc75-cd04-4466-a787-16f4a7a06c01)
-)
-
 ![alt text](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=behance&logoColor=white)
 </div>
 🧠 About Me
