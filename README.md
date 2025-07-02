@@ -45,9 +45,6 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 2" width="100"/>
         </a>
         <p>
-          <a href="https://github.com/UjjwalMisra/ats-resume-ranking" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
         </p>
         <p><strong>Python, NLP, Machine Learning</strong> - An AI-powered tool that optimizes screening and ranking of 1000+ resumes against job descriptions. Uses NLP techniques to extract relevant keywords and provides a shortlist of the most qualified candidates.</p>
       </div>
