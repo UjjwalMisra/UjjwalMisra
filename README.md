@@ -58,12 +58,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Project 3" width="100"/>
         </a>
         <p>
-          <a href="https://github.com/UjjwalMisra/model-crafter" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://github.com/UjjwalMisra/model-crafter" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=colab&logoColor=white"/>
-          </a>
+        
         </p>
         <p><strong>Python, Scikit-Learn, Google Colab</strong> - A Python-based ML framework supporting 8+ algorithms for classification and regression with built-in preprocessing, hyperparameter tuning, and visualization of model performance metrics.</p>
       </div>
@@ -75,12 +70,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Project 4" width="100"/>
         </a>
         <p>
-          <a href="https://github.com/UjjwalMisra/coffee-shop-app" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://github.com/UjjwalMisra/coffee-shop-app" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=netlify&logoColor=white"/>
-          </a>
+          
         </p>
         <p><strong>HTML, CSS, JavaScript</strong> - Responsive web application for a coffee shop developed during internship at Bolt IoT. Increased user engagement by 30% and reduced bounce rates by 15% through an intuitive UI and smooth user experience.</p>
       </div>
