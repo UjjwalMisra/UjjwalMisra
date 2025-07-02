@@ -29,8 +29,7 @@
 - 📊 **1,600+ Reviews Processed** - Implemented text preprocessing pipeline using CountVectorizer
 - 🔍 **User-Friendly Interface** - Enabled non-technical users to validate review authenticity effortlessly
 
-**[🔗 View Project](https://github.com/ujjwalmisra/fake-review-detection)** | **[🚀 Live Demo](https://your-streamlit-app-link.com)**
-
+**[🔗 View Project](https://github.com/UjjwalMisra/Fake_reviews_for_hotels)** 
 ---
 
 ### 📊 ATS Resume Ranking System
@@ -42,7 +41,7 @@
 - 📈 **10x Faster Screening** - Automated resume evaluation against job descriptions
 - 🏆 **Best-Fit Candidate Highlighting** - Enhanced recruiter decision-making process
 
-**[🔗 View Project](#)** | **[📋 Documentation](#)**
+**[🔗 View Project](https://github.com/UjjwalMisra/ATS_project)** 
 
 ---
 
@@ -54,22 +53,19 @@
 - 📈 **Model Metrics Visualization** - Interactive performance analysis and comparison
 - 🔧 **Plug-and-Play Architecture** - Easy integration for various ML projects
 
-**[🔗 View Project](#)**
+**[🔗 View Project](https://github.com/UjjwalMisra/Model-Crafter)**
 
 ---
 
-### ☕ Coffee Shop Web Application
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Responsive Design`  
-*Built during Bolt IoT Internship*
+#### 🏡 [House Price Prediction](https://github.com/UjjwalMisra/house-price-prediction)  
+**Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
-- 📱 **Fully Responsive Design** - Optimized for all device sizes
-- 📈 **15% Bounce Rate Reduction** - Improved user experience and engagement
-- ⚡ **Enhanced User Interaction** - Interactive features and smooth animations
-- 🎨 **Modern UI/UX** - Clean, professional design with intuitive navigation
+- 🧠 Built a regression model to predict house prices based on multiple features.
+- 📊 Used data preprocessing, feature engineering, and visualization for insights.
+- 📈 Achieved high model accuracy with fine-tuned hyperparameters.
+- 📉 Applied evaluation metrics like MAE, MSE, and R² to assess performance.
+**[🔗 View Project](https://github.com/UjjwalMisra/house-price-prediction)**
 
-**[🔗 View Project](#)** | **[🌐 Live Site](#)**
-
----
 
 ## 🛠️ Technical Arsenal
 
