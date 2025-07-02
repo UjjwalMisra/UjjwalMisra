@@ -57,15 +57,17 @@
 
 ---
 
-#### 🏡 [House Price Prediction](https://github.com/UjjwalMisra/house-price-prediction)  
+#### 🏡 House Price Prediction 
 **Tech Stack:** `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn`
 
 - 🧠 Built a regression model to predict house prices based on multiple features.
 - 📊 Used data preprocessing, feature engineering, and visualization for insights.
 - 📈 Achieved high model accuracy with fine-tuned hyperparameters.
 - 📉 Applied evaluation metrics like MAE, MSE, and R² to assess performance.
+  
 **[🔗 View Project](https://github.com/UjjwalMisra/house-price-prediction)**
 
+---
 
 ## 🛠️ Technical Arsenal
 
