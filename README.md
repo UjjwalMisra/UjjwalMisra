@@ -12,7 +12,7 @@
 
 🎓 **Computer Science Engineering Student** at Kalinga Institute of Industrial Technology (2022-2026)  
 📍 Based in Kanpur, Uttar Pradesh | Studying in Bhubaneswar, Odisha  
-🚀 Passionate about **Machine Learning**, **Data Science**, and **Full Stack Development**  
+🚀 Passionate about **Machine Learning**, **Data Science**, and **Software Development**  
 🔬 Currently exploring **NLP** and **AI-driven solutions** for real-world problems  
 🎯 Goal: *"Turn data into information, and information into insight"* – Carly Fiorina
 
