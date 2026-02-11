@@ -47,7 +47,8 @@
 - Data Science Projects  
 - Problem Solving (DSA)
 
----### GitHub Stats
+---
+### GitHub Stats
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=UjjwalMisra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
