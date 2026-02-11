@@ -48,13 +48,12 @@
 - Problem Solving (DSA)
 
 ---
-
 ### GitHub Stats
 
-<a href="https://github.com/UjjwalMisra">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=UjjwalMisra&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMisra&hide_title=true&hide_border=true&layout=compact&theme=dark" />
-</a>
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=UjjwalMisra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjwalMisra&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
